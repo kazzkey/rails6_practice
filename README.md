@@ -15,3 +15,7 @@ $ gem install rails -v 6.0.3
 $ rails _6.0.3_ new rails6_practice -d postgresql
 ```
 この時、`yarn` `webpacker`が一緒にインストールされる。
+
+## Action Text設定
+blog機能を作成し、Action Textでリッチテキストエディタを試してみた。
+とても便利。
